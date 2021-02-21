@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(37, 0, 0);
+    box-sizing: border-box;
+    justify-content: center;
+}
+/* Div container */
+.humour-container {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+/* Image */
+.humourous-images {
+    width: 100%;
+    height: 800px;
+}
